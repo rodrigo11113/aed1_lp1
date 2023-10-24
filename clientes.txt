@@ -1,0 +1,23 @@
+1
+111111111,Jose,911111111,23-08-1999,rua pilinhas,
+2
+1,11,1,2000
+3
+Antas,Ola,10.0,10.0
+2
+Rabanadas,aaaaa,
+Leitao,bbbbb,
+Benfica,ola,2.2,2.2
+1
+estadio da luz,aaaaaaaa,
+Sporting,ola,3.3,3.3
+1
+estadio de alvalade,aaaaaaaa,
+5,1,1,3000
+2
+Benfica,Baixa,5.5,5.5
+1
+dddd,eeee,
+Porquinho,Alta,5.5,5.5
+1
+gggg,ffff,
